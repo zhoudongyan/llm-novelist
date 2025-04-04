@@ -36,7 +36,7 @@ poetry add llm-novelist
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/llm-novelist.git
+git clone https://github.com/zhoudongyan/llm-novelist.git
 cd llm-novelist
 
 # Install dependencies
